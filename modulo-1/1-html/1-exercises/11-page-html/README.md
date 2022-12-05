@@ -10,7 +10,7 @@ Vamos a crear una página completa con HTML después de haber aprendido en esta 
 
 ---
 
-<img src="../../../../README/01-fonts.PNG">
+<img src="./assets/01-fonts.PNG">
 
 ---
 
@@ -21,13 +21,17 @@ Vamos a crear una página completa con HTML después de haber aprendido en esta 
 
 Bien! Ya tenemos la parte superior de nuestra página. Ahora toca hacer varias `section` para añadir nuestra información.
 
+
 - Crearemos una `section` que contena un `ul` con varios `li`. Cada uno contendrá un `a`, y, además, el primer `a` debe llevar la propiedad `target="_blank"`. Estos links llevarán a cada una de tus redes (LinkedIn, Instagram, Twitter...).
+
 
 - Ahora crearemos una `section` que contenga un `h3` con el texto `Estudios`.
 - En esta section crearemos una `table` que contenga 3 columnas en la cabecera: Título, Lugar y Año. Ahora añadiremos tantas rows como títulos tengamos con información para cada columna.
 
+
 - Crearemos también una una `section` que contenga un `h3` con el texto `Experiencia`.
 - Al igual que antes, añadiremos otra `table` con las 4 columnas de cabecera: Posición, Empresa, Desde, Hasta. Añadiremos tantas rows como títulos tengamos con información para cada columna.
+
 
 - Por último, crearemos otra `section` que contenga un `h3` con el texto `Contactar`.
 - Aquí crearemos un `form` con la propiedad `action="#` que tenga dos campos:
@@ -39,7 +43,7 @@ Si tienes todo listo, deberías tener algo similar a lo que te mostramos en la i
 
 ---
 
-<img src="../../../../README/02-result.PNG">
+<img src="./assets/02-result.PNG">
 
 ---
 

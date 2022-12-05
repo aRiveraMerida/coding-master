@@ -2,7 +2,7 @@
 
 En este ejercicio necesitamos que creéis una web basada en el conocidísimo creador de Vite y Vue, Evan You.
 
-```bash
+
 En base al html que os dejamos en el evan-you.html, podéis montar la página:
 
 Los datos son los siguientes:
@@ -18,7 +18,7 @@ Otros datos:
 
     Outside of programming and helping my wife take care of our two kids, I enjoy video games, karaoke, sushi, watching UFC/F1, and collecting mechanical watches.
 
-
+```bash
 Además, tienes que tener en cuenta los siguientes requisitos:
 
 -El título de la página debe ser Evan You.

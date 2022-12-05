@@ -23,11 +23,12 @@ AVANZADO:
 
 AVANZADO DEL BUENO BUENO:
 
-Si habéis conseguido insertar todo lo anterior y seguís en busca de retos, os dejamos un par de opciones más con las que podéis redondear el formulario:
+Si habéis conseguido insertar todo lo anterior y seguís en busca de retos, os dejamos un par de opciones más con las que podéis
+redondear el formulario:
 
 - Insertar la población, que será una lista desplegable con las opciones Alicante, Madrid, Sevilla y Valencia.
 - Descripción, un área de texto multilínea.
-
-
-Esta vez vamos a dejar que tanto el título de la web como la temática y el resto del contenido lo elijáis vosotros, queremos ver vuestras dotes imaginativas Neolanders!
 ```
+
+Esta vez vamos a dejar que tanto el título de la web como la temática y el resto del contenido lo elijáis vosotros!
+

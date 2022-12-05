@@ -9,5 +9,6 @@ En base al html que os dejamos en el construct.html, debéis insertar lo siguien
 
 - Un encabezado de importancia 1 con el texto "HTML" antes de "HTML son las siglas de..."
 - Un encabezado de importancia 2 con el texto "Historia de HTML" antes de "Los inicios del lenguaje HTML..."
-- Un encabezado de importancia 2 con el texto "Versiones de HTML" antes de dos nuevos párrafos que contienen el texto "Tim Berners-Lee definió la primera versión de HTML en el año 1991" y "En la actualidad, la última versión de HTML es HTML5".
+- Un encabezado de importancia 2 con el texto "Versiones de HTML" antes de dos nuevos párrafos que contienen el texto 
+  "Tim Berners-Lee definió la primera versión de HTML en el año 1991" y "En la actualidad, la última versión de HTML es HTML5".
 ```
