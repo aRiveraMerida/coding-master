@@ -19,7 +19,7 @@ Los datos son los siguientes:
 -Podéis buscar información de las películas para rellenar con más elementos vuestra web.
 
 ```
-*Recuerda que en la sección de atributos básicos de html5 teníais un tip extra o curiosidad que os ayudará a dotar de la funcionalidad requerida en el <nav></nav>*
+*Recuerda que en la documentación de html5 teníais un tip extra o curiosidad que os ayudará a dotar de la funcionalidad requerida en el <nav></nav>*
 
 
 VAMOS A VER DE QUÉ SOIS CAPACES!!

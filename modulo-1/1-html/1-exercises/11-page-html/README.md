@@ -9,8 +9,8 @@ Vamos a crear una página completa con HTML después de haber aprendido en esta 
 - Ahora, navega a Google Fonts, selecciona la fuente que más te guste, y, a la derecha de la página verás la opción de <link> y la opción de @import. Seleccionad link y copiad todo el contenido, tendréis que pegarlo dentro de <head> en vuestro html. Os dejamos el link directo [aquí](https://fonts.google.com/specimen/Roboto). Te dejamos además una imagen adjunta en esta carpeta para que puedas comprobar donde se encuentra dicho `link` (archivo 01-fonts.png).
 
 ---
+<div align="center"><img src="./assets/01-fonts.PNG"></div>
 
-<img src="./assets/01-fonts.PNG">
 
 ---
 
@@ -43,8 +43,8 @@ Si tienes todo listo, deberías tener algo similar a lo que te mostramos en la i
 
 ---
 
-<img src="./assets/02-result.PNG">
 
+<div align="center"><img src="./assets/02-result.PNG"></div>
 ---
 
 ## Ya tienes tu primera página HTML! 🧙‍♂️

@@ -5,7 +5,8 @@ Ahora vamos a tratar de construir un cv con nuestros datos y formación. Podéis
 ```bash
 En base al html que os dejamos en el cv-list.html, debéis insertar lo siguiente:
 
-Hacer un cv con una estructura como la que os dejamos a continuación, que serían los datos necesarios para montar el cv de Bruce Wayne:
+Hacer un cv con una estructura como la que os dejamos a continuación, que serían los datos necesarios para montar
+el cv de Bruce Wayne:
 
 Datos personales
  Nombre completo:  Bruce Wayne
