@@ -15,8 +15,7 @@ Por ello en cada módulo nos encontraremos la materia tratada con los ejemplos d
 ```bash
 |-> 📁 Modulo-1
 	|-> 📁 1-html
-		|-> 📁 1-code-example
-		|-> 📁 2-ejercicios
+		|-> 📁 1-ejercicios
 ```
 
 Por ello os recomendamos que sigáis los cambios del repositorio y le deis a la estrellita para marcar como favorito este repositorio y enteraros siempre de los cambios 🌟

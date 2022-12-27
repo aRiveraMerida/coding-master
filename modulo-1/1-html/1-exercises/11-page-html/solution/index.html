@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mi página personal de Neoland!</title>
+    <!-- Añadimos la fuente Roboto en el elemento head -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&family=Roboto:wght@400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body style="font-family: 'Roboto', sans-serif">
+    <h1>[TU NOMBRE]</h1>
+    <img
+      src="./assets/Gandalf.webp"
+      alt="Mi foto"
+      width="200"
+      height="200"
+      style="border-radius: 50%"
+    />
+    <h2>Developer en Neoland</h2>
+
+    <section>
+      <!-- En esta sección vamos a practicar las listas desordenadas -->
+      <h3>Mis redes sociales:</h3>
+      <ul>
+        <li>
+          <!-- El atributo target="_blank" hace que cuando clices en el elemento se abra una nueva pestaña -->
+          <a href="#" target="_blank">Linkedin</a>
+          <a href="#">Instagram</a>
+          <a href="#">Twitter</a>
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <!-- Pasamos a una sección para practicar las tablas -->
+      <h3>Formación:</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Título</th>
+            <th>Lugar</th>
+            <th>Año</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+            <td>Grado universitario</td>
+            <td>Bilbao</td>
+            <td>2018</td>
+          </tr>
+          <tr>
+            <td>Máster</td>
+            <td>Madrid</td>
+            <td>2020</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h3>Experiencia:</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Posición</th>
+            <th>Empresa</th>
+            <th>Desde</th>
+            <th>Hasta</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+            <td>Desarrollador</td>
+            <td>Neoland</td>
+            <td>2018</td>
+            <td>2024</td>
+          </tr>
+          <tr>
+            <td>Desarrollador</td>
+            <td>Google</td>
+            <td>2024</td>
+            <td>Presente</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <!--  Vamos a meter un sencillo formulario de contacto -->
+      <h3>Contactar</h3>
+
+      <form action="#">
+        <label for="email">Desde:</label>
+
+        <input name="email" id="email" type="email" required />
+
+        <label for="message">Mensaje:</label>
+
+        <textarea
+          name="message"
+          id="message"
+          cols="30"
+          rows="10"
+          required
+        ></textarea>
+
+        <button type="submit">Enviar</button>
+      </form>
+    </section>
+  </body>
+</html>
